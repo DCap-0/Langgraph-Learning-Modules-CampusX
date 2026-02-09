@@ -1,8 +1,16 @@
 langgraph
 langchain
+langchain-community
+langchain-mcp-adapters
 
 langchain-google-genai
 google-generativeai
 
+langgraph-checkpoint-postgres
+psycopg[binary,pool]
+
 ipykernel
 dotenv
+ddgs
+faiss-cpu 
+pypdf
